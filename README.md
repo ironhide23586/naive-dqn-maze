@@ -2,6 +2,7 @@
 Maze Solver using Naive Reinforcement Learning with Q-Table construction
 
 Full detailed article at - https://towardsdatascience.com/maze-rl-d035f9ccdc63
+Sample video at - https://www.youtube.com/watch?v=kOIVUGqz7gI
 
 ![alt text](https://github.com/ironhide23586/naive-dqn-maze/blob/master/artifacts/animation.gif)
 
